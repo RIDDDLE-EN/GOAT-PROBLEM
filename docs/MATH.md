@@ -5,7 +5,7 @@ Rope circle: center `P`, radius `r`. They intersect at `X± = (R cos β, ± R si
 
 ## 1. The key relation: rope length ↔ arc angle
 
-`|PX| = r' is a chord of the field circle subtending β at `O`, so
+`|PX| = r` is a chord of the field circle subtending β at `O`, so
 
     r = 2R sin(β/2)         β = 2.arcsin(r / 2R)
 
